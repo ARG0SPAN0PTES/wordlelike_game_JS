@@ -28,4 +28,8 @@
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
 
+static/graphe.pngenv/
+env/
+Python/__pycache__/
+__pycache__/
 static/graphe.png
